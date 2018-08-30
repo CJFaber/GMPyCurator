@@ -14,7 +14,7 @@ create a tree based on given tags. After completing a curation process a tag
 library is produced so that the user can quickly begin a new sorting process
 using already created tags.
 
-The final idea being that you can move a file 'funnycat.jpg' in your downloads folder to somewhere that looks more like this:
+The final idea being that you have a hirearchy of tags and can move a file like 'funnycat.jpg' in your downloads folder to somewhere that looks more like this:
 
 /Pictures/Internet_Images/Cats/funnycat.jpg
 
@@ -23,3 +23,6 @@ Or organize your music so it looks more like this:
 /Music/Artist/Album/Artist-SongName.mp3
 
 Currently working on GUI development, more to come!
+
+Image Tagger GUI
+![Current GUI](https://github.com/CJFaber/GMPyCurator/blob/master/ImageCurator_progress.png)

@@ -1,6 +1,8 @@
 # GMPyCurator
 Guided Media Python Curator - Currently a work in progress
 
+Current status = Not working! Come back later
+
 If you're anything like me you have one huge media/downloads folder that gets 
 bloated all the time with images/media/videos save from online content which
 eventually needs to organized into folders. This process using manual drag and
